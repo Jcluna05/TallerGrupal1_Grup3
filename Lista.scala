@@ -1,5 +1,14 @@
 object Lista extends App{
 
+  /*
+  INTEGRANTES:
+  Jhoel Ordoñez
+  Adrian Rivera
+  Julio Luna
+  Kriss Bustamante
+  Luis Granda
+  Jandry Jaramillo
+  */
   import java.util.concurrent.ThreadLocalRandom
   import java.util.stream.IntStream
 
